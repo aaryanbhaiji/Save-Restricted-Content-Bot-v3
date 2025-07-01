@@ -28,7 +28,7 @@
     },
     "OWNER_ID": {
       "description": "User ID(s) to be set as bot owner(s), separated by space (e.g., 1234 5678)",
-      "value": "7997003922",
+      "value": "39277682",
       "required": true
     },
     "DB_NAME": {
@@ -43,12 +43,12 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-1002571982723",
+      "value": "-1007757689723",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-1002571982723",
+      "value": "-1002576723",
       "required": true
     },
     "MASTER_KEY": {
@@ -83,12 +83,12 @@
     },
     "ADMIN_CONTACT": {
       "description": "type admin contact link",
-      "value": "https://t.me/Bindasboy010",
+      "value": "https://t.me/gdghfsboy010",
       "required": true
     },
     "JOIN_LINK": {
       "description": "type join channel link which comes on /start",
-      "value": "https://t.me/free_ka_maal01",
+      "value": "https://t.me/freyjhgjaal01",
       "required": true
     }
   },
